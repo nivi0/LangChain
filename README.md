@@ -45,9 +45,5 @@ Feel free to clone this repository and explore the code to deepen your understan
 
 ## Contributors
 
-- Your Name
-- Other contributors (if applicable)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- Niveditha Baskaran
+- email: niveditha.bvel@gmail.com
